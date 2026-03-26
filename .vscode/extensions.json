@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "mathworks.language-matlab",
+        "affenwiesel.matlab-formatter",
+        "skyran.matlab-snippets",
+        "adebayovictor.matlab-lint"
+    ]
+}
